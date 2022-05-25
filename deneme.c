@@ -31,3 +31,4 @@ int main(){
 
     return 0;
 }
+https://www.scaler.com/topics/matrix-multiplication-in-c/
